@@ -22,7 +22,6 @@
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
-            <!-- Optional on purpose. Include for SOME hotels in the valid XML, omit for others. -->
             <xs:attribute name="Rating" type="xs:string" use="optional"/>
           </xs:complexType>
         </xs:element>
