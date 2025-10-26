@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
+
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -13,6 +14,7 @@
     </Address>
   </Hotel>
 
+  <!-- 2 -->
   <Hotel Rating="4.5">
     <Name>Omni Tempe Hotel at ASU</Name>
     <Phone>480-245-4730</Phone>
@@ -25,7 +27,8 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.1">
+  <!-- 3 -->
+  <Hotel>
     <Name>Hyatt Place Tempe/Phoenix Airport</Name>
     <Phone>480-804-9544</Phone>
     <Phone>800-323-7249</Phone>
@@ -38,6 +41,7 @@
     </Address>
   </Hotel>
 
+  <!-- 4 -->
   <Hotel Rating="4.1">
     <Name>Hilton Phoenix Airport</Name>
     <Phone>480-894-1600</Phone>
@@ -50,7 +54,8 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.2">
+  <!-- 5 -->
+  <Hotel>
     <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-966-2800</Phone>
     <Address>
@@ -62,6 +67,7 @@
     </Address>
   </Hotel>
 
+  <!-- 6 -->
   <Hotel Rating="4.3">
     <Name>AC Hotel Phoenix Tempe/Downtown</Name>
     <Phone>602-449-6630</Phone>
@@ -75,7 +81,8 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.9">
+  <!-- 7 -->
+  <Hotel>
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Address>
@@ -87,6 +94,7 @@
     </Address>
   </Hotel>
 
+  <!-- 8 -->
   <Hotel Rating="4.0">
     <Name>Moxy Phoenix Tempe/ASU Area</Name>
     <Phone>480-968-3451</Phone>
@@ -100,7 +108,8 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.0">
+  <!-- 9 -->
+  <Hotel>
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
     <Address>
@@ -112,6 +121,7 @@
     </Address>
   </Hotel>
 
+  <!-- 10 -->
   <Hotel Rating="4.4">
     <Name>The Westin Phoenix Downtown</Name>
     <Phone>602-429-3500</Phone>
@@ -124,7 +134,8 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.3">
+  <!-- 11 -->
+  <Hotel>
     <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
     <Phone>888-625-5144</Phone>
@@ -137,5 +148,3 @@
     </Address>
   </Hotel>
 </Hotels>
-
-
