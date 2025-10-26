@@ -58,7 +58,7 @@
   <Hotel>
     <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-966-2800</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>601</Number>
       <Street>S Ash Ave</Street>
       <City>Tempe</City>
@@ -85,7 +85,7 @@
   <Hotel>
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
       <City>Tempe</City>
@@ -112,7 +112,7 @@
   <Hotel>
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>4400</Number>
       <Street>S Rural Rd</Street>
       <City>Tempe</City>
@@ -139,7 +139,7 @@
     <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
     <Phone>888-625-5144</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>340</Number>
       <Street>N 3rd St</Street>
       <City>Phoenix</City>
